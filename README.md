@@ -1,0 +1,2 @@
+# RainFall_analysis
+My study is based on rainfall in India from 1901 to 2015. I conducted statistical analysis and data visualisation in order to get significant insights for our country, India. I examined several months, seasons, and yearly rainfall statistics for various states across a wide range of years in order to study data and draw required conclusions. I had utilised visualisation software such as Seaborn, Matplotlib.My statistical plots with analysis are shown below!!!
